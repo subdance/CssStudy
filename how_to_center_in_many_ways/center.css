@@ -36,6 +36,7 @@
 /* seperate line */
 .main_container_3 {
   padding: 10rem 0;
+  height: auto;
 }
 .main_container_3 > .centerBlock {
   margin: auto;
